@@ -24,6 +24,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3b7cc133-b1b6-4cc2-add3-d61db207e5f1"
+      }
+    },
+    "owner": "dyletocorp"
   }
 }
