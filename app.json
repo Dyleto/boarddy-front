@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "boarddy-front",
-    "slug": "boarddy-front",
+    "slug": "boarddy",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,9 +27,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "3b7cc133-b1b6-4cc2-add3-d61db207e5f1"
+        "projectId": "1115fac0-8f9f-4b92-a7fc-7f2c510bc74f"
       }
     },
-    "owner": "dyletocorp"
+    "owner": "dyleto"
   }
 }
