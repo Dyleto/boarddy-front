@@ -13,7 +13,11 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.dyleto.boarddy",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -30,6 +34,16 @@
         "projectId": "1115fac0-8f9f-4b92-a7fc-7f2c510bc74f"
       }
     },
-    "owner": "dyleto"
+    "owner": "dyleto",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/1115fac0-8f9f-4b92-a7fc-7f2c510bc74f"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ]
   }
 }
